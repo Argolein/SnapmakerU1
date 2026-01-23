@@ -1,7 +1,7 @@
 Pretty-PLA-Profile -> Standalone Orca Slicer profile without any orphans <br>
 SnapmakerU1-CustomConfig -> My custom config
 
-**(C)FW-Klipper-Patches**
+**(C)FW-Klipper-Patches:**
 So far I patched the following files:<br>
 resonance_tester.py<br>
 shaper_calibrate.py<br>
