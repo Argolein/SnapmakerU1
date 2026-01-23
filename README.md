@@ -1,4 +1,4 @@
-Pretty-PLA-Profile -> Standalone Orca Slicer profile without any orphans
+Pretty-PLA-Profile -> Standalone Orca Slicer profile without any orphans <br>
 SnapmakerU1-CustomConfig -> My custom config
 
 **(C)FW-Klipper-Patches**
